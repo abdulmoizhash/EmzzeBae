@@ -1,4 +1,9 @@
 ### Hi there 👋
+- 🌱 I’m currently learning A.I
+- 🔭 I’m currently working on Python
+- 👯 I’m looking to collaborate on Beginner Python Projects
+- 💬 Ask me about Anything
+- 📫 How to reach me: You can reach me out on instagram 
 
 <!--
 **EmzzeBae/EmzzeBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
