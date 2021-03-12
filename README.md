@@ -1,3 +1,4 @@
+[![.EmzzeBae loves cats.](https://raw.githubusercontent.com/EmzzeBae/EmzzeBae/main/Simple%20Technology%20LinkedIn%20Banner.png)](https://www.instagram.com/abdul_moiz38)
 ### Hi there 👋
 - 🌱 I’m currently learning A.I
 - 🔭 I’m currently working on Python
