@@ -1,10 +1,10 @@
 [![.EmzzeBae loves cats.](https://raw.githubusercontent.com/EmzzeBae/EmzzeBae/main/Simple%20Technology%20LinkedIn%20Banner.png)](https://www.instagram.com/abdul_moiz38)
 ### Hi there 👋
-- 🌱 I’m currently learning A.I
-- 🔭 I’m currently working on Python
-- 👯 I’m looking to collaborate on Beginner Python Projects
+- 🌱 I’m currently learning Flutter and Data Science
+- 🔭 I’m currently working on Flutter
+- 👯 I’m looking to collaborate on Flutter Projects
 - 💬 Ask me about Anything
-- 📫 How to reach me: You can reach me out on instagram 
+- 📫 How to reach me: You can reach me out on instagram and LinkedIn
 
 <!--
 **EmzzeBae/EmzzeBae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
